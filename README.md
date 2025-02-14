@@ -1,0 +1,1 @@
+# chrome-cant-translate-to-ja
